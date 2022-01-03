@@ -17,4 +17,3 @@ Décrire en quelques lignes en quoi le jeu à sa place ici.
 **Store :** (steam/epic/gog...) <lien entre chevrons> 
 **Trailer :**  <lien entre chevrons> 
 **Autre :**<lien entre chevrons> 
-**Lien de l'icone :** <lien entre chevrons>
