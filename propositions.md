@@ -5,6 +5,7 @@
 [Description ici]
 **Genre : ** (fps, survival, sandbox... )
 **Nombre de joueurs :** (duo, team, mmo...)
+**Prix :** 
 
 ```md
 # Pourquoi ce jeu ?
