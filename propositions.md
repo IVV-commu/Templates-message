@@ -3,14 +3,14 @@
 ```
 **Description du jeu :**
 [Description ici]
-**Genre : ** (fps, survival, sandbox... )
-**Nombre de joueurs :** (duo, team, mmo...)
+**Genre :** 
+**Nombre de joueurs :** 
 **Prix :** 
 
 ```md
 # Pourquoi ce jeu ?
 ```
-Décrire en quelques lignes en quoi le jeu à sa place ici.
+[ICI]
 
 ```md
 # Liens
