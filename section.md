@@ -5,7 +5,7 @@
 - Objectifs
 - Gameplay
 - Type de joueurs recherchés
-- Toutes autres infos jugées importantes
+- Toutes autres infos jugées importantes 
 
 ```md
 # Personnes à contacter
