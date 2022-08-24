@@ -32,5 +32,7 @@
 # Inscriptions
 ```
 :white_check_mark:  => Je veux y jouer, c'est sur!
+
 :x:  => Non désolé ça ne m'intéresse pas!
+
 :grey_question: => Je ne sais pas trop...
